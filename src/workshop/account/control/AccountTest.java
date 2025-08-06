@@ -4,7 +4,7 @@ public class AccountTest {
 
 	public static void main(String[] args) {
 		//Account °´Ã¼ »ı¼º
-		workshop.account.entity.account account = new Account();
+		Account account = new Account();
 		
 		//°í°´¹øÈ£ : "A1100, °èÁÂ¹øÈ£ : "221-22-3477", ÀÜ¾× : 10000
 		account.setCustID("A1100");
