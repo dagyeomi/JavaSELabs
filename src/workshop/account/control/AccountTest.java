@@ -3,7 +3,13 @@ package workshop.account.control;
 public class AccountTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//Account °´Ã¼ »ý¼º
+		workshop.account.entity.account account = new Account();
+		
+		//°í°´¹øÈ£ : "A1100, °èÁÂ¹øÈ£ : "221-22-3477", ÀÜ¾× : 10000
+		account.setCustID("A1100");
+		account.setAcctId("221-22-3477");
+		
 
 	}
 
